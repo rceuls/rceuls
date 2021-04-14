@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Raf, a full stack software developer/teacher from Belgium. I'm interested in programming, devops, ... . My hobbies include stuff like playing tabletop roleplaying games and reading. When there is no global pandemic I like to go to metal festivals/gigs.
+
+#### Contact Me
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/raf-ceuls-a135b22/).
+
 <!--
 **rceuls/rceuls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
